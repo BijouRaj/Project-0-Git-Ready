@@ -9,7 +9,7 @@ Bijou Raj
 [*Current Repo*](https://github.com/BijouRaj/Project-0-Git-Ready)
 
 ## Link to ScreenCast
-[Link to YouTube Video]()
+[Link to YouTube Video](https://youtu.be/58BkekPBONE)
 
 ## Recording Software
   - **Recording Software** Google Chrome Screen Recorder Extension 3.3.0
